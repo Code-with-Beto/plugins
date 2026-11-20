@@ -1,0 +1,42 @@
+{
+  "name": "code-with-beto",
+  "version": "0.1.0",
+  "description": "Code with Beto MCP, skills and commands for building React Native, Expo and SwiftUI apps from Beto's courses and source code.",
+  "author": {
+    "name": "Code with Beto",
+    "url": "https://codewithbeto.dev"
+  },
+  "homepage": "https://codewithbeto.dev/mcp",
+  "repository": "https://github.com/Code-with-Beto/plugins",
+  "keywords": [
+    "react-native",
+    "expo",
+    "swiftui",
+    "ios",
+    "mobile",
+    "mcp",
+    "code-with-beto"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Code with Beto",
+    "shortDescription": "Build apps with Beto's code",
+    "longDescription": "Connects Codex to the Code with Beto MCP and adds Beto's skills for React Native, Expo and SwiftUI apps. The free plan reads the blog, guides, skills, app screens, sample lessons and the Oyelo source. Pro adds project-specific skills, full courses, and premium app source.",
+    "developerName": "Code with Beto",
+    "category": "Coding",
+    "capabilities": [],
+    "websiteURL": "https://codewithbeto.dev/mcp",
+    "privacyPolicyURL": "https://codewithbeto.dev/privacy",
+    "termsOfServiceURL": "https://codewithbeto.dev/terms",
+    "defaultPrompt": [
+      "Check my Code with Beto plan and suggest three first steps for this project",
+      "Build onboarding in this app using the code from a Code with Beto template",
+      "Make a launch checklist for this app from Beto's launch guide"
+    ],
+    "brandColor": "#0A0A0A",
+    "brandColorDark": "#FAFAFA",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}

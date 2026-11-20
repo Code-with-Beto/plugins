@@ -1,0 +1,20 @@
+{
+  "name": "code-with-beto",
+  "interface": {
+    "displayName": "Code with Beto"
+  },
+  "plugins": [
+    {
+      "name": "code-with-beto",
+      "source": {
+        "source": "local",
+        "path": "./plugins/code-with-beto"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Coding"
+    }
+  ]
+}

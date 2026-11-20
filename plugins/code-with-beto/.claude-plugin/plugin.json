@@ -1,0 +1,21 @@
+{
+  "name": "code-with-beto",
+  "displayName": "Code with Beto",
+  "version": "0.1.0",
+  "description": "Code with Beto MCP, skills and commands for building React Native, Expo and SwiftUI apps from Beto's courses and source code.",
+  "author": {
+    "name": "Code with Beto",
+    "url": "https://codewithbeto.dev"
+  },
+  "homepage": "https://codewithbeto.dev/mcp",
+  "repository": "https://github.com/Code-with-Beto/plugins",
+  "keywords": [
+    "react-native",
+    "expo",
+    "swiftui",
+    "ios",
+    "mobile",
+    "mcp",
+    "code-with-beto"
+  ]
+}

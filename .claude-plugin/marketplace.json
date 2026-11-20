@@ -1,0 +1,18 @@
+{
+  "name": "code-with-beto",
+  "owner": {
+    "name": "Code with Beto",
+    "url": "https://codewithbeto.dev"
+  },
+  "description": "Plugins from Code with Beto.",
+  "plugins": [
+    {
+      "name": "code-with-beto",
+      "source": "./plugins/code-with-beto",
+      "description": "Code with Beto MCP, skills and commands for building React Native, Expo and SwiftUI apps from Beto's courses and source code.",
+      "version": "0.1.0",
+      "homepage": "https://codewithbeto.dev/mcp",
+      "category": "development"
+    }
+  ]
+}

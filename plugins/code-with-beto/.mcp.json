@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "codewithbeto": {
+      "type": "http",
+      "url": "https://mcp.codewithbeto.dev",
+      "headersHelper": "sh \"${CLAUDE_PLUGIN_ROOT}/scripts/mcp-headers.sh\""
+    }
+  }
+}
